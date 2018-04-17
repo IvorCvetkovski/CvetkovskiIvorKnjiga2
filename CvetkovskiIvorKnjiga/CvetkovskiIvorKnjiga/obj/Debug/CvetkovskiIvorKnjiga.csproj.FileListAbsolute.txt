@@ -1,0 +1,10 @@
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\obj\Debug\CvetkovskiIvorKnjiga.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\obj\Debug\CvetkovskiIvorKnjiga.Form1.resources
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\obj\Debug\CvetkovskiIvorKnjiga.Properties.Resources.resources
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\obj\Debug\CvetkovskiIvorKnjiga.csproj.GenerateResource.Cache
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\obj\Debug\CvetkovskiIvorKnjiga.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\bin\Debug\CvetkovskiIvorKnjiga.exe.config
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\bin\Debug\CvetkovskiIvorKnjiga.exe
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\bin\Debug\CvetkovskiIvorKnjiga.pdb
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\obj\Debug\CvetkovskiIvorKnjiga.exe
+C:\Users\Učenik\source\repos\CvetkovskiIvorKnjiga\CvetkovskiIvorKnjiga\obj\Debug\CvetkovskiIvorKnjiga.pdb
